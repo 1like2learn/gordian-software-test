@@ -25,3 +25,33 @@ Feel free to include any other properties in your JSON format that you think are
 Please avoid the use of xml to json libraries/tools such as xmltodict, objectify and the like.
 
 
+## JSON Schema
+`{
+    "flightNumber": "1179"
+    "rows": {
+        "cabinType": "FirstClass"
+        "1": {
+            "1A": {
+                "available": "false",
+                "features": [
+                    "exitRow",
+                    "Window",
+                ]
+            }
+        }
+        "15": {
+            "15A": {
+                "available": "true",
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "exitRow", 
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ],
+            }
+        }
+    }
+}`

@@ -1,0 +1,1640 @@
+{
+    "rows": {
+        "24": {
+            "24E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "24D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "24F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "24A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "24C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "24B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "25": {
+            "25B": {
+                "available": "false", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ]
+            }, 
+            "25C": {
+                "available": "false", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ]
+            }, 
+            "25A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "25F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "25D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "25E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "37": {
+            "37A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "37C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "37B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "37E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "37D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "37F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "39": {
+            "39C": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "39B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "39A": {
+                "available": "false", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ]
+            }, 
+            "39F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "39E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "39D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "36": {
+            "36F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "36D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "36E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "36B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "36C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "36A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "27": {
+            "27A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "27B": {
+                "available": "false", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ]
+            }, 
+            "27C": {
+                "available": "false", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ]
+            }, 
+            "27D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "27E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "27F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "20": {
+            "20A": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Window"
+                ]
+            }, 
+            "20C": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Aisle"
+                ]
+            }, 
+            "20B": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Center"
+                ]
+            }, 
+            "20E": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Center"
+                ]
+            }, 
+            "20D": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Aisle"
+                ]
+            }, 
+            "20F": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Limited Recline", 
+                    "Overwing", 
+                    "Window"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "38": {
+            "38A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "38B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "38C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "38D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "38E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "38F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "21": {
+            "21F": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Window"
+                ]
+            }, 
+            "21D": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Aisle"
+                ]
+            }, 
+            "21E": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Center"
+                ]
+            }, 
+            "21B": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Center"
+                ]
+            }, 
+            "21C": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Aisle"
+                ]
+            }, 
+            "21A": {
+                "available": "false", 
+                "features": [
+                    "exitRow", 
+                    "Overwing", 
+                    "Window"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "11": {
+            "11E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "11D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "11F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "11A": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "11C": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "11B": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "10": {
+            "10B": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "10C": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "10A": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "10F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "10D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "10E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "26": {
+            "26C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "26B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "26A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "26F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "26E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "26D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "12": {
+            "12A": {
+                "available": "false", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ]
+            }, 
+            "12B": {
+                "available": "false", 
+                "features": [
+                    "Preferred", 
+                    "Center", 
+                    "Chargeable"
+                ]
+            }, 
+            "12C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "12D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "12E": {
+                "available": "false", 
+                "features": [
+                    "Preferred", 
+                    "Center", 
+                    "Chargeable"
+                ]
+            }, 
+            "12F": {
+                "available": "false", 
+                "features": [
+                    "Preferred", 
+                    "Window", 
+                    "Chargeable"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "15": {
+            "15A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "15C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "15B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2600", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "15E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2600", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "15D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "15F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "14": {
+            "14F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "14D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "14E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2600", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "14B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2600", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "14C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "14A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "22": {
+            "22F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "22E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "22D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "22C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "22B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "22A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "23": {
+            "23D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "4200", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "23E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "23F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "23A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "2700", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "23B": {
+                "available": "false", 
+                "features": [
+                    "Overwing", 
+                    "Center", 
+                    "Chargeable"
+                ]
+            }, 
+            "23C": {
+                "available": "false", 
+                "features": [
+                    "Preferred", 
+                    "Overwing", 
+                    "Aisle", 
+                    "Chargeable"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "32": {
+            "32B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "32C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "32A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "32F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "32D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "32E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "31": {
+            "31F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "31C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "31B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy", 
+            "31A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "31E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "31D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }
+        }, 
+        "30": {
+            "30E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "30A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy", 
+            "30C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "30D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "30B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "30F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }
+        }, 
+        "28": {
+            "28A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "28C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "28B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "28E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "28D": {
+                "available": "false", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ]
+            }, 
+            "28F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "29": {
+            "29F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "29D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "29E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "29B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "29C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "29A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "35": {
+            "35F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "35E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "35D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "35C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "35B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "35A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "34": {
+            "34D": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "34E": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "34F": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "34A": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1300", 
+                "features": [
+                    "Window", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "34B": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1200", 
+                "features": [
+                    "Center", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "34C": {
+                "available": "true", 
+                "currency": "USD", 
+                "price": "1800", 
+                "features": [
+                    "Aisle", 
+                    "Chargeable"
+                ], 
+                "taxes": "0"
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "1": {
+            "1A": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "cabinType": "First", 
+            "1B": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "1E": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "1F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }
+        }, 
+        "2": {
+            "2E": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "cabinType": "First", 
+            "2F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "2A": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "2B": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }
+        }, 
+        "7": {
+            "7F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "7E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "7D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "7C": {
+                "available": "false", 
+                "features": [
+                    "Lavatory"
+                ]
+            }, 
+            "7B": {
+                "available": "false", 
+                "features": [
+                    "Lavatory"
+                ]
+            }, 
+            "7A": {
+                "available": "false", 
+                "features": [
+                    "Lavatory"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "9": {
+            "9A": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "9C": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "9B": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "9E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "9D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "9F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }, 
+        "8": {
+            "8B": {
+                "available": "false", 
+                "features": [
+                    "Limited Recline", 
+                    "Center"
+                ]
+            }, 
+            "8C": {
+                "available": "false", 
+                "features": [
+                    "Limited Recline", 
+                    "Aisle"
+                ]
+            }, 
+            "8A": {
+                "available": "false", 
+                "features": [
+                    "Limited Recline", 
+                    "Window"
+                ]
+            }, 
+            "8F": {
+                "available": "false", 
+                "features": [
+                    "Window"
+                ]
+            }, 
+            "8D": {
+                "available": "false", 
+                "features": [
+                    "Aisle"
+                ]
+            }, 
+            "8E": {
+                "available": "false", 
+                "features": [
+                    "Center"
+                ]
+            }, 
+            "cabinType": "Economy"
+        }
+    }, 
+    "flightNumber": "1179"
+}

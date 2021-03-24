@@ -364,7 +364,7 @@
             "20A": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Window"
@@ -373,7 +373,7 @@
             "20C": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Aisle"
@@ -382,7 +382,7 @@
             "20B": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Center"
@@ -391,7 +391,7 @@
             "20E": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Center"
@@ -400,7 +400,7 @@
             "20D": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Aisle"
@@ -409,7 +409,7 @@
             "20F": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Limited Recline", 
                     "Overwing", 
                     "Window"
@@ -484,7 +484,7 @@
             "21F": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Window"
                 ]
@@ -492,7 +492,7 @@
             "21D": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Aisle"
                 ]
@@ -500,7 +500,7 @@
             "21E": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Center"
                 ]
@@ -508,7 +508,7 @@
             "21B": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Center"
                 ]
@@ -516,7 +516,7 @@
             "21C": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Aisle"
                 ]
@@ -524,7 +524,7 @@
             "21A": {
                 "available": "false", 
                 "features": [
-                    "exitRow", 
+                    "Exit Row", 
                     "Overwing", 
                     "Window"
                 ]

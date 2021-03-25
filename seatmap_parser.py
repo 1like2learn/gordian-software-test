@@ -1,13 +1,15 @@
 import sys, json
 import xml.etree.ElementTree as ET
 
-root = ET.parse(sys.argv[1]).getroot()
-output = None
+""" To use this program type "python seatmap_parser.py [FILENAME]" into the terminal.
+    The parsed file will be placed in the repository the program is run in. 
+    File is broken up into two parsers and the code at the bottom that runs the correct parser
+ """
 
 def iataV17_2():
     ns = root.tag.split("}")[0] + '}'
 
-    """ Dict of prices with offer id as key. Value is a list with currency in index 0 and price in index 1."""
+    #Dict of prices with offer id as key. Value is a list with currency in index 0 and price in index 1.
     prices = {}
     for price in root.find(ns + "ALaCarteOffer").findall(ns + "ALaCarteOfferItem"):
         prices[price.get("OfferItemID")] = [
@@ -16,10 +18,10 @@ def iataV17_2():
         ]
 
     dataList = root.find(ns + "DataLists")
-    """ Dict of seat properties. The definition code is the key and a formatted string is the value."""
+    #Dict of seat properties. The definition code is the key and a formatted string is the value.
     seatDefs = {}
     for seatDef in dataList.find(ns + "SeatDefinitionList"):
-        """ List of exceptions to normalize data with predefined JSON schema. """
+        #List of exceptions to normalize data with predefined JSON schema.
         exceptions = {
             "AISLE_SEAT": "Aisle",
             "RESTRICTED_RECLINE_SEAT": "Limited Recline",
@@ -96,12 +98,18 @@ def openTravelV1():
         output["rows"].update(rowObj)
     return output
 
+""" In the case that the if else tree got really long I'd probably use a dictionary
+ with root.tag as key and functions as vales to improve efficiency. If I added any
+ more parsers I'd probably start splitting them into different files and only import 
+ the function I needed to parse the file."""
+root = ET.parse(sys.argv[1]).getroot()
+output = None
 if root.tag == "{http://schemas.xmlsoap.org/soap/envelope/}Envelope" and root[0][0].tag == "{http://www.opentravel.org/OTA/2003/05/common/}OTA_AirSeatMapRS":
     output = openTravelV1()
 elif root.tag == "{http://www.iata.org/IATA/EDIST/2017.2}SeatAvailabilityRS" and root.get("Version") == "17.2":
     output = iataV17_2()
 else:
-    print("\nSorry, the schema for this file is not supported by this parser.\n")
+    raise NotImplementedError("\nSorry, the schema for this file is not supported by this parser.\n")
 
 with open(sys.argv[1][:-4] + "_parsed.json", "w") as jsonFile:
     json.dump(output, jsonFile, indent=4)
